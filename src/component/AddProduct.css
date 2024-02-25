@@ -1,0 +1,43 @@
+.product{
+    width: 75%;
+    height: 100%;
+}
+.product input{
+    border-radius: 5px;
+    margin: 20px;
+    width: 20%;
+    padding: 10px;
+}
+.product .buttonContainer{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 50px;
+  
+}
+.product button{
+    border-radius: 15px;
+    color: white;
+    padding: 5px 30px;
+    background-color: rgb(79, 16, 150);
+    margin-left: 50px;
+    cursor: pointer;
+}
+.product button:first-child{
+    background-color:  white;
+    color: black;
+}
+.product .producthead{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    box-shadow: 0 4px 6px -6px #222;
+}
+.product .producthead i{
+    margin: 0 10px;
+}
+
+.product input{
+    width: 250px;
+}

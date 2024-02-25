@@ -1,0 +1,8 @@
+.CategoryTable{
+    padding: 20px 50px;
+    position: relative;
+    width: 75%;
+    height: 100%;
+    box-shadow: 0 0 10px #888;
+    margin: 0 5px 0 10px;
+ }

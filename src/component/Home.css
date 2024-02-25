@@ -1,0 +1,10 @@
+.home{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 75%;
+    text-align: center;
+    box-shadow: 0 0 10px #888;
+    margin: 0 5px 0 10px;
+}

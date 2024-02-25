@@ -1,0 +1,28 @@
+.category{
+    width: 75%;
+    height: 100%;
+}
+.category input{
+    border-radius: 5px;
+    margin: 20px;
+    width: 25%;
+    padding: 10px;
+}
+.category .buttonContainer{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 50px;
+}
+.category button{
+    border-radius: 15px;
+    color: white;
+    padding: 5px 30px;
+    background-color: rgb(79, 16, 150);
+    margin-left: 50px;
+    cursor: pointer;
+}
+.category button:first-child{
+    background-color:  white;
+    color: black;
+}
